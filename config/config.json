@@ -1,0 +1,8 @@
+{
+	"dbURL": "",
+	"dbName":"test",
+	"dbCollectionName": "test",
+	"inputFolderPath": "D:/GoWorkspace/src/JSONDumpMongo/Folders/Input/",
+	"outputFolderPath": "D:/GoWorkspace/src/JSONDumpMongo/Folders/Output/",
+	"errorFolderPath":"D:/GoWorkspace/src/JSONDumpMongo/Folders/Error/"
+}

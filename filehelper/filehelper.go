@@ -1,0 +1,7 @@
+package filehelper
+
+import "io/ioutil"
+
+func ReadFile(filePath string) ([]byte, error) {
+	return ioutil.ReadFile(filePath)
+}

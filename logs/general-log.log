@@ -1,0 +1,6 @@
+General Logger:	2020/01/18 12:34:58 main.go:59: Starting Utility.. 2020-01-18 12:34:58.5422833 +0530 IST m=+2.335134101
+General Logger:	2020/01/18 12:34:58 main.go:101: Total File Found.. 3
+Error Logger:	2020/01/18 12:35:04 main.go:118: An Error Occured: Unmarshling Failed: TEST2.json : <nil>
+Error Logger:	2020/01/18 12:35:04 main.go:135: An Error Occured: SKIPPING INSERTION: TEST2.json : <nil>
+General Logger:	2020/01/18 12:35:04 main.go:149: Done !
+General Logger:	2020/01/18 12:35:04 main.go:155: Time took to insert all documents.. 6.2978852s
